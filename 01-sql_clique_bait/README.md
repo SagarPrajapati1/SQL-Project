@@ -20,7 +20,7 @@ Five tables used in this case study.
 
 
 ## ER Diagram:
- ![CliqueBait_ERDiagram](https://github.com/SagarPrajapati1/SQL_clique_bait/main/Solutions.md)
+ ![CliqueBait_ERDiagram](https://github.com/SagarPrajapati1/SQL-Project/blob/master/01-sql_clique_bait/er_dig.png)
 
 
 ## Problem Statements:
@@ -43,4 +43,4 @@ Five tables used in this case study.
 17.	Your task is to identify the number of users who have made a purchase and order them in descending order based on their order counts.
 18.	Your task is to analyse the user behaviour in terms of visiting the pages and identifying the page that each user visits the most.
 
-### Check out the [*Answers*](https://github.com/SagarPrajapati1/SQL_clique_bait/main/Solutions.md)
+### Check out the [*Answers*](https://github.com/SagarPrajapati1/SQL-Project/blob/master/01-sql_clique_bait/Solutions.md)
